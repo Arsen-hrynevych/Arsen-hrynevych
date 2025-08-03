@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Educational Platform<br><br>📝 I regularly write articles on LinkedIn<br><br>📫 How to reach me agryn76@gmail.com
+🔭 I’m currently working as a Tech Lead on a platform for AI virtual agents<br><br>📫 How to reach me arsenhrynevych@gmail.com
 
 
 ## 🌐 Socials:
